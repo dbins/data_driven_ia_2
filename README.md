@@ -1,2 +1,5 @@
-# data_driven_ia_2
-Imersão Comunidade Data Driven 2026
+# Imersão Inteligência Artificial - Data Driven
+
+Este repositório contem os arquivos e o material de apoio referente a Imersão Inteligência Artificial feita pela comunidade Data Driven em janeiro de 2026
+
+![Imersão IA Data Driven](imersao.jpg)
